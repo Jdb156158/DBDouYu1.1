@@ -1,4 +1,5 @@
 # DBDouYu1.1
+对方觉得浪费江东父老
 高仿斗鱼TV界面
 =====
 | Tables        | Are           | Cool  |
